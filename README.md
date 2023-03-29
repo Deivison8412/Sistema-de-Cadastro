@@ -2,4 +2,4 @@
 
 >status do projeto
 
-para rodar este projeto você vai precisar da biblioteca java
+para rodar este projeto você vai precisar do node.js
